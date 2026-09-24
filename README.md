@@ -3,7 +3,7 @@
 Full-stack software engineer with experience building, testing, and improving web applications and APIs. I work primarily with Python, JavaScript, React, SQL, and backend services, and I’m always learning and building something new. 🚀
 
 - 🌱 I’m currently learning TypeScript and Playwright
-- ⚡️ Fun fact: I have a super cute dog named Hermes
+- ⚡️ Fun fact: I have a super cute German Shepard-Husky dog named Hermes
 
 <p align="center">
   <a href="https://skillicons.dev">
